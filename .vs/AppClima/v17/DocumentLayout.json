@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\playd\\source\\repos\\AppClima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3849BE98-8CC5-404E-98A5-43E4A009D91F}|AppClima\\AppClima.csproj|c:\\users\\playd\\source\\repos\\appclima\\appclima\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3849BE98-8CC5-404E-98A5-43E4A009D91F}|AppClima\\AppClima.csproj|solutionrelative:appclima\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3849BE98-8CC5-404E-98A5-43E4A009D91F}|AppClima\\AppClima.csproj|c:\\users\\playd\\source\\repos\\appclima\\appclima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3849BE98-8CC5-404E-98A5-43E4A009D91F}|AppClima\\AppClima.csproj|solutionrelative:appclima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3849BE98-8CC5-404E-98A5-43E4A009D91F}|AppClima\\AppClima.csproj|c:\\users\\playd\\source\\repos\\appclima\\appclima\\weatherv1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3849BE98-8CC5-404E-98A5-43E4A009D91F}|AppClima\\AppClima.csproj|solutionrelative:appclima\\weatherv1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "weatherV1.json",
+              "DocumentMoniker": "C:\\Users\\playd\\source\\repos\\AppClima\\AppClima\\weatherV1.json",
+              "RelativeDocumentMoniker": "AppClima\\weatherV1.json",
+              "ToolTip": "C:\\Users\\playd\\source\\repos\\AppClima\\AppClima\\weatherV1.json",
+              "RelativeToolTip": "AppClima\\weatherV1.json",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T04:25:59.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\playd\\source\\repos\\AppClima\\AppClima\\WeatherData.cs",
+              "RelativeDocumentMoniker": "AppClima\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\playd\\source\\repos\\AppClima\\AppClima\\WeatherData.cs",
+              "RelativeToolTip": "AppClima\\WeatherData.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T02:05:30.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\playd\\source\\repos\\AppClima\\AppClima\\Program.cs",
+              "RelativeDocumentMoniker": "AppClima\\Program.cs",
+              "ToolTip": "C:\\Users\\playd\\source\\repos\\AppClima\\AppClima\\Program.cs",
+              "RelativeToolTip": "AppClima\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:40:18.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

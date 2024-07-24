@@ -1,0 +1,17 @@
+C:\Users\playd\source\repos\AppClima\AppClima\obj\Debug\net8.0\AppClima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\playd\source\repos\AppClima\AppClima\obj\Debug\net8.0\AppClima.AssemblyInfoInputs.cache
+C:\Users\playd\source\repos\AppClima\AppClima\obj\Debug\net8.0\AppClima.AssemblyInfo.cs
+C:\Users\playd\source\repos\AppClima\AppClima\obj\Debug\net8.0\AppClima.csproj.CoreCompileInputs.cache
+C:\Users\playd\source\repos\AppClima\AppClima\bin\Debug\net8.0\AppClima.exe
+C:\Users\playd\source\repos\AppClima\AppClima\bin\Debug\net8.0\AppClima.deps.json
+C:\Users\playd\source\repos\AppClima\AppClima\bin\Debug\net8.0\AppClima.runtimeconfig.json
+C:\Users\playd\source\repos\AppClima\AppClima\bin\Debug\net8.0\AppClima.dll
+C:\Users\playd\source\repos\AppClima\AppClima\bin\Debug\net8.0\AppClima.pdb
+C:\Users\playd\source\repos\AppClima\AppClima\obj\Debug\net8.0\AppClima.dll
+C:\Users\playd\source\repos\AppClima\AppClima\obj\Debug\net8.0\refint\AppClima.dll
+C:\Users\playd\source\repos\AppClima\AppClima\obj\Debug\net8.0\AppClima.pdb
+C:\Users\playd\source\repos\AppClima\AppClima\obj\Debug\net8.0\AppClima.genruntimeconfig.cache
+C:\Users\playd\source\repos\AppClima\AppClima\obj\Debug\net8.0\ref\AppClima.dll
+C:\Users\playd\source\repos\AppClima\AppClima\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\playd\source\repos\AppClima\AppClima\obj\Debug\net8.0\AppClima.csproj.AssemblyReference.cache
+C:\Users\playd\source\repos\AppClima\AppClima\obj\Debug\net8.0\AppClima.csproj.Up2Date
